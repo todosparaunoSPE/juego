@@ -74,6 +74,11 @@ const questionsInversion = [
         options: ["Poner todo el dinero en una sola inversión.", "Distribuir la inversión en diferentes activos para reducir el riesgo.", "No invertir en absoluto."],
         respuestaCorrecta: 1
     },
+
+    <p>
+  Crea un enlace a
+  <a href="https://todosparaunospe.github.io/juego2/">la página de inicio de Mozilla</a>.
+</p>
 ];
 
 let respuestasCorrectas = 0;
